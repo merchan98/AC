@@ -1,0 +1,42 @@
+Id. usuario del trabajo: B2estudiante10
+Id. del trabajo: 64612.atcgrid
+Nombre  del trabajo especificado por usuario: SumaVectores6_vglobales
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/B2estudiante10
+Cola: ac
+Nodos asignados al trabajo:
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+Tiempo(seg.):0.000000139	 / Tamaño Vectores:29	/ V1[0]+V2[0]=V3[0](2.900000+2.900000+5.800000) / / V1[28]+V2[28]=V3[28](5.700000+0.100000+5.800000) /
+Tiempo(seg.):0.000000225	 / Tamaño Vectores:29	/ V1[0]+V2[0]=V3[0](2.900000+2.900000+5.800000) / / V1[28]+V2[28]=V3[28](5.700000+0.100000+5.800000) /
+Tiempo(seg.):0.000000141	 / Tamaño Vectores:29	/ V1[0]+V2[0]=V3[0](2.900000+2.900000+5.800000) / / V1[28]+V2[28]=V3[28](5.700000+0.100000+5.800000) /
+Tiempo(seg.):0.000000144	 / Tamaño Vectores:29	/ V1[0]+V2[0]=V3[0](2.900000+2.900000+5.800000) / / V1[28]+V2[28]=V3[28](5.700000+0.100000+5.800000) /
+Tiempo(seg.):0.000000235	 / Tamaño Vectores:29	/ V1[0]+V2[0]=V3[0](2.900000+2.900000+5.800000) / / V1[28]+V2[28]=V3[28](5.700000+0.100000+5.800000) /
+Tiempo(seg.):0.000000148	 / Tamaño Vectores:29	/ V1[0]+V2[0]=V3[0](2.900000+2.900000+5.800000) / / V1[28]+V2[28]=V3[28](5.700000+0.100000+5.800000) /
+Tiempo(seg.):0.000000139	 / Tamaño Vectores:29	/ V1[0]+V2[0]=V3[0](2.900000+2.900000+5.800000) / / V1[28]+V2[28]=V3[28](5.700000+0.100000+5.800000) /
+Tiempo(seg.):0.000000130	 / Tamaño Vectores:29	/ V1[0]+V2[0]=V3[0](2.900000+2.900000+5.800000) / / V1[28]+V2[28]=V3[28](5.700000+0.100000+5.800000) /
+Tiempo(seg.):0.000000145	 / Tamaño Vectores:29	/ V1[0]+V2[0]=V3[0](2.900000+2.900000+5.800000) / / V1[28]+V2[28]=V3[28](5.700000+0.100000+5.800000) /
+Tiempo(seg.):0.000000237	 / Tamaño Vectores:29	/ V1[0]+V2[0]=V3[0](2.900000+2.900000+5.800000) / / V1[28]+V2[28]=V3[28](5.700000+0.100000+5.800000) /
+Tiempo(seg.):0.000000227	 / Tamaño Vectores:29	/ V1[0]+V2[0]=V3[0](2.900000+2.900000+5.800000) / / V1[28]+V2[28]=V3[28](5.700000+0.100000+5.800000) /

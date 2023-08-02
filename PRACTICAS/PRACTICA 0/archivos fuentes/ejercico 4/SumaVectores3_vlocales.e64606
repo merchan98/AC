@@ -1,0 +1,8 @@
+/var/lib/torque/mom_priv/jobs/64606.atcgrid.SC: line 20:  7043 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectores3 $N
+/var/lib/torque/mom_priv/jobs/64606.atcgrid.SC: line 20:  7046 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectores3 $N
+/var/lib/torque/mom_priv/jobs/64606.atcgrid.SC: line 20:  7049 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectores3 $N
+/var/lib/torque/mom_priv/jobs/64606.atcgrid.SC: line 20:  7054 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectores3 $N
+/var/lib/torque/mom_priv/jobs/64606.atcgrid.SC: line 20:  7060 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectores3 $N
+/var/lib/torque/mom_priv/jobs/64606.atcgrid.SC: line 20:  7068 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectores3 $N
+/var/lib/torque/mom_priv/jobs/64606.atcgrid.SC: line 20:  7071 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectores3 $N
+/var/lib/torque/mom_priv/jobs/64606.atcgrid.SC: line 20:  7074 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectores3 $N
